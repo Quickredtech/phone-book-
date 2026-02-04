@@ -1,6 +1,6 @@
 # Phone Book (Tkinter)
 
-A simple desktop phone book built with Python and Tkinter. Add, search, update, and delete contacts with a clean two-panel layout and persistent storage in `contacts.json`.
+A prime desktop phone book built with Python and Tkinter. Add, search, update, and delete contacts with a clean two-panel layout and persistent storage in `contacts.json`.
 
 ## Features
 - Add contacts with name, phone, location, and email
